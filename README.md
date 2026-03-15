@@ -1,7 +1,7 @@
 ## Hi everyone!!
 
 <!--
-**htong1/htong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**htong1/htong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 I'm Hillary, a first-year undergraduate student at Harvard studying computer science and statistics. I'm interested in computational psychiatry and socially impactful tech, and am especially passionate about bringing opportunities to underserved communities in tech.
 
