@@ -1,3 +1,5 @@
+# Hi everyone :D
+
 I'm Hillary, a second-year undergraduate student at Harvard studying computer science and statistics. I'm interested in computational psychiatry and socially impactful tech, and am especially passionate about bringing opportunities to underserved communities in tech.
 
 ### Currently
